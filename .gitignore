@@ -1,3 +1,10 @@
+########################    Custom ignored files   ########################
+
+# Do not commit input text files
+*.txt
+
+######################## Base python ignored files ########################
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
