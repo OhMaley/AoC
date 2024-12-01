@@ -3,6 +3,9 @@
 # Do not commit input text files
 *.txt
 
+# Everyone can use their own python version
+.python-version
+
 ######################## Base python ignored files ########################
 
 # Byte-compiled / optimized / DLL files
