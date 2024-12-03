@@ -6,6 +6,9 @@
 # Everyone can use their own python version
 .python-version
 
+# Ignore vscode files
+.vscode/
+
 ######################## Base python ignored files ########################
 
 # Byte-compiled / optimized / DLL files

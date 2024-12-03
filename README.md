@@ -13,32 +13,28 @@ Here’s the general structure:
 ```bash
 ├── 2023/
 │ ├── Day01/
-│ │ ├── solution.py # Solution script for Day 1
-│ │ └── README.md # Description of the puzzle and solution notes
+│ │ └── solution.py # Solution script for Day 1
 │ ├── Day02/
-│ │ ├── solution.py
-│ │ └── README.md
+│ │ └── solution.py  # Solution script for Day 2
 │ └── ...
 ├── 2024/
 │ ├── Day01/
-│ │ ├── solution.py
-│ │ └── README.md
+│ │ └── solution.py
 │ ├── Day02/
-│ │ ├── solution.cpp
-│ │ └── README.md
+│ │ └── solution.py
 │ └── ...
 └── ...
 ```
 
 ### Example:
 - **`2024/Day01/solution.py`**: Python script containing the solution for Day 1 of the 2021 event.
-- **`2024/Day01/README.md`**: Description of the puzzle, approach, and any additional notes.
 
 ---
 
 ## 📜 Years Covered
 
 - [2024](./2024) *(work in progress)*
+- [2023](./2023)
 
 ---
 
@@ -54,7 +50,7 @@ Each solution is implemented as a standalone script. To run a solution:
 ## 🛠️ Tools and Technologies
 
 - **Primary Language**: Python 3 (some solutions might use more optimized language like C++)
-- **Libraries**: Solutions may use common libraries like `numpy` or `itertools` when needed.
+- **Libraries**: Solutions may use common libraries like `collections` or `itertools` when needed.
 
 ---
 
@@ -70,7 +66,6 @@ This is a personal repository, but I’m always open to feedback or alternate so
 ## 🔗 Resources
 
 - [Advent of Code Website](https://adventofcode.com/)
-- [Python Documentation](https://docs.python.org/3/)
 
 ---
 
