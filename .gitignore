@@ -9,6 +9,10 @@
 # Ignore vscode files
 .vscode/
 
+# And auto generated images
+logic_schema
+logic_schema.png
+
 ######################## Base python ignored files ########################
 
 # Byte-compiled / optimized / DLL files
