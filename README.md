@@ -1,7 +1,7 @@
 # 🎄 Advent of Code Solutions 🎄
 
 Welcome to my repository containing solutions for the [Advent of Code](https://adventofcode.com/) challenges!  
-Advent of Code is an annual event featuring programming puzzles that run from December 1st to 25th. Each day brings a new puzzle to solve, and it's a great way to practice problem-solving and coding skills.
+Advent of Code is an annual event featuring programming puzzles that run from December 1st to 12th (was up to the 25th before 2025). Each day brings a new puzzle to solve, and it's a great way to practice problem-solving and coding skills.
 
 ---
 
@@ -33,7 +33,8 @@ Here’s the general structure:
 
 ## 📜 Years Covered
 
-- [2024](./2024) *(work in progress)*
+- [2025](./2025) *(work in progress)*
+- [2024](./2024)
 - [2023](./2023)
 
 ---
@@ -49,7 +50,7 @@ Each solution is implemented as a standalone script. To run a solution:
 
 ## 🛠️ Tools and Technologies
 
-- **Primary Language**: Python 3 (some solutions might use more optimized language like C++)
+- **Primary Language**: Python 3 (some solutions might use more optimized language like C++ or Rust)
 - **Libraries**: Solutions may use common libraries like `collections` or `itertools` when needed.
 
 ---
