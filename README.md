@@ -1,7 +1,7 @@
 # 🎄 Advent of Code Solutions 🎄
 
 Welcome to my repository containing solutions for the [Advent of Code](https://adventofcode.com/) challenges!  
-Advent of Code is an annual event featuring programming puzzles that run from December 1st to 21th (was up to the 25th before 2025). Each day brings a new puzzle to solve, and it's a great way to practice problem-solving and coding skills.
+Advent of Code is an annual event featuring programming puzzles that run from December 1st to 12th (was up to the 25th before 2025). Each day brings a new puzzle to solve, and it's a great way to practice problem-solving and coding skills.
 
 ---
 
